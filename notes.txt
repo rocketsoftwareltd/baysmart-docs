@@ -1,0 +1,27 @@
+Dashboard
+States
+Project Tools
+ - Projects
+ - Beneficiaries
+ - Data sources
+ - Project status
+ - Project types
+ - Sectors
+     . Sectors
+     . Sub-sectors
+Procurement
+Contract Data
+Financial Data
+Contract Diagnostics
+Saveguard
+Contract Variations
+Contract monitoring
+Portfolio Analysis
+Pre-defined Options
+Users
+Add Users
+Roles
+Permission
+Clear cache
+Profile
+Logout
